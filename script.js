@@ -9,4 +9,4 @@ colorBox.style.backgroundColor="rgb("+r+","+g+","+b+")";
 
 //rgb(red,green,blue)
 //red,green,blue - 0 to 255
-//random(5) - 0 to 4 , 0.4, 3.5
+//random()*5 - 0 to 4 , 0.4, 3.5
